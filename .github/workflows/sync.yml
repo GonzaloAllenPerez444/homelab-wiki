@@ -1,0 +1,14 @@
+name: Sync to Wiki.js
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  sync:
+    runs-on: self-hosted
+    steps:
+      - name: Trigger Wiki.js Git sync
+        run: |
+          curl -sf -X POST http://wiki.homelab.local/git/sync \
+            -H "Authorization: Bearer ${{ secrets.WIKIJS_API_KEY }}"
