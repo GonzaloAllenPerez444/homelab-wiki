@@ -1,11 +1,11 @@
 ---
-title: Home
-description: Homelab wiki home page
+title: test page
+description: Homelab wiki test page
 published: true
-date: 2026-06-11T00:00:00.000Z
+date: "2026-06-11T00:00:00.000Z"
 tags: ""
 editor: markdown
-dateCreated: 2026-06-11T00:00:00.000Z
+dateCreated: "2026-06-11T00:00:00.000Z"
 ---
 
 Test Page
