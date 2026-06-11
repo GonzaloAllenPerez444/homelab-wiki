@@ -2,10 +2,10 @@
 title: Home
 description: Homelab wiki home page
 published: true
-date: 2026-06-11T00:00:00.000Z
+date: "2026-06-11T00:00:00.000Z"
 tags: ""
 editor: markdown
-dateCreated: 2026-06-11T00:00:00.000Z
+dateCreated: "2026-06-11T00:00:00.000Z"
 ---
 
-Content should be here
+Content Will Be Here
